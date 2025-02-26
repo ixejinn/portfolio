@@ -19,6 +19,15 @@ let render_projects = (slug) => {
             description: "Designed and developed a game engine with an understanding of component-based architecture, and gained a strong understanding of graphics, including shaders and texture mapping.",
             categories: ['water']
         },
+		{
+            image: 'assets/images/projects/water.png',
+            link: 'https://github.com/Yujxxng/Project_Water',
+            title: 'testtesttest',
+            demo: false,
+            technologies: ['C++', 'Unreal Engine5'],
+            description: "Designed and developed a game engine with an understanding of component-based architecture, and gained a strong understanding of graphics, including shaders and texture mapping.",
+            categories: ['water']
+        },
     ]
 
     let projects = [];
