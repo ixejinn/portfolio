@@ -18,7 +18,7 @@ let render_projects = (slug) => {
             technologies: ['C++', 'Unreal Engine5'],
             description: "Designed and developed a game engine with an understanding of component-based architecture, and gained a strong understanding of graphics, including shaders and texture mapping.",
             categories: ['water']
-        }
+        },
     ]
 
     let projects = [];
