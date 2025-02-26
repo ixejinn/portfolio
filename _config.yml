@@ -1,0 +1,18 @@
+title: Yejin Nam
+description: Junior Software Engineer, Game Developer
+site_title: '@ixejinn Portfolio'
+
+# Build settings
+markdown: kramdown
+exclude: [vendor/ruby]
+
+# Personalization
+github_username: ixejinn
+email: nmyejin@gmail.com
+
+
+# absolute or relative
+profile_picture: assets/images/profile.png
+
+# Google Analytics ID
+google_analytics: 

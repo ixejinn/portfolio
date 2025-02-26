@@ -1,0 +1,5 @@
+.idea/
+_site
+vendor/ruby
+.vscode
+Gemfile.lock
