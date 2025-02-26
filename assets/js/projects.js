@@ -16,17 +16,26 @@ let render_projects = (slug) => {
             title: 'Project: Water',
             demo: false,
             technologies: ['C++', 'Unreal Engine5'],
-            description: "Designed and developed a game engine with an understanding of component-based architecture, and gained a strong understanding of graphics, including shaders and texture mapping.",
-            categories: ['water']
+            description: "2-person team project using Unreal engine. Developed player movement and state transformation system (ice, water, vapor). Designed and developed various physics-based mechanics and interactive elements.",
+            categories: ['cpp']
         },
 		{
             image: 'assets/images/projects/water.png',
-            link: 'https://github.com/Yujxxng/Project_Water',
-            title: 'testtesttest',
+            link: 'https://github.com/ixejinn/game-blade-of-the-flame',
+            title: 'Blade of the Flame',
             demo: false,
-            technologies: ['C++', 'Unreal Engine5'],
-            description: "Designed and developed a game engine with an understanding of component-based architecture, and gained a strong understanding of graphics, including shaders and texture mapping.",
-            categories: ['water']
+            technologies: ['C++', 'Alpha Engine'],
+            description: "Led the development of a component-based game engine, built on top of Alpha engine, and core gameplay systems in a 3-person team project. Handled the development, including 2D physics, player controls, simple enemy behaviors, UI elements, and basic player attack mechanics.",
+            categories: ['cpp']
+        },
+		{
+            image: 'assets/images/projects/water.png',
+            link: 'https://github.com/rima0502/hyper-auto-pets',
+            title: 'Hyper Auto Pets',
+            demo: false,
+            technologies: ['C', 'CProcessing Engine'],
+            description: "2-person team project using CProcessing engine. Developed store systems and enemy card deck generation.",
+            categories: ['c']
         },
     ]
 
