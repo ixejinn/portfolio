@@ -10,14 +10,41 @@ let render_projects = (slug) => {
     $(`#${slug}`).addClass('white-button-hover');
 	
     let projects_obj = [
+	    {
+            image: 'assets/images/projects/YJEngine.png',
+            link: 'https://github.com/Yujxxng/YJ_Engine',
+            title: 'YJ_Engine',
+            demo: false,
+            technologies: ['C', 'C++', 'Custom Engine'],
+            description: "Designed and developed a game engine with an understanding of component-based architecture, and gained a strong understanding of graphics, including shaders and texture mapping.",
+            categories: ['yjengine']
+        },
+        {
+            image: 'assets/images/projects/invaders.png',
+            link: 'https://github.com/Yujxxng/alpha_project',
+            title: 'DigiPen Invaders',
+            demo: 'https://youtu.be/sQGeNWUNJAU',
+            technologies: ['C', 'C++', 'Custom Engine'],
+            description: "Built a game engine using C/C++ with a component-based structure and created a remake of Space Invaders.",
+            categories: ['invaders']
+        },
 		{
             image: 'assets/images/projects/water.png',
-            link: 'https://github.com/ixejinn/game-water',
+            link: 'https://github.com/Yujxxng/Project_Water',
             title: 'Project: Water',
             demo: false,
             technologies: ['C++', 'Unreal Engine5'],
             description: "Designed and developed a game engine with an understanding of component-based architecture, and gained a strong understanding of graphics, including shaders and texture mapping.",
             categories: ['water']
+        },
+		{
+            image: 'assets/images/projects/heartsteal.png',
+            link: '#',
+            title: 'Visual Novel',
+            demo: 'https://youtu.be/n9OlChvo8Q0',
+            technologies: ['C', 'C++', 'WIN32', 'GDI+'],
+            description: "Implemented a function to display images and text using WIN32 and GDI+, managing resources manually with reference counting.",
+            categories: ['visualnovel']
         },
     ]
 
