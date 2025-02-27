@@ -20,7 +20,7 @@ let render_projects = (slug) => {
             categories: ['cpp']
         },
 		{
-            image: 'assets/images/projects/water.png',
+            image: 'assets/images/projects/flame.png',
             link: 'https://github.com/ixejinn/game-blade-of-the-flame',
             title: 'Blade of the Flame',
             demo: false,
@@ -29,7 +29,7 @@ let render_projects = (slug) => {
             categories: ['cpp']
         },
 		{
-            image: 'assets/images/projects/water.png',
+            image: 'assets/images/projects/hyperautopets.png',
             link: 'https://github.com/rima0502/hyper-auto-pets',
             title: 'Hyper Auto Pets',
             demo: false,
