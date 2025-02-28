@@ -29,7 +29,7 @@ let render_projects = (slug) => {
             categories: ['cpp']
         },
 		{
-            image: 'assets/images/projects/hyperautopets.jpg',
+            image: 'assets/images/projects/hyperautopets.png',
             link: 'https://github.com/rima0502/hyper-auto-pets',
             title: 'Hyper Auto Pets',
             demo: false,
